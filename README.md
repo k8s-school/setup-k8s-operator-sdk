@@ -1,4 +1,4 @@
-# setup-k8s-operator-sdk
+# OBSOLETE AND NOT MAINTAINED setup-k8s-operator-sdk
 
 ![Build and Release](https://github.com/shivanshs9/setup-k8s-operator-sdk/workflows/Build%20and%20Release/badge.svg)
 
